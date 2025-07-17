@@ -1,9 +1,21 @@
 LLM Engineering Project Descriptions
 
-## llmwebscraper.ipynb Summary
+---
 
-The `llmwebscraper.ipynb` notebook introduces web scraping with Python, using libraries like `requests`, `BeautifulSoup`, and `dotenv` for scraping and environment management. It guides users to securely load their OpenAI API key from a `.env` file and includes checks to validate the key's presence and format. The notebook is designed to help users combine web scraping with large language models, making it a practical starting point for LLM-powered data extraction workflows.
+### llm_brochure_builder.ipynb
 
-## llm_brochure_builder.ipynb Summary
+The `llm_brochure_builder.ipynb` notebook demonstrates how to leverage generative AI to automate the creation of marketing brochures. By combining web scraping, content extraction, and OpenAI's large language models, this notebook enables users to generate concise, human-readable summaries and marketing copy from real web content. It is ideal for anyone looking to streamline brochure creation or automate content curation using state-of-the-art AI.
 
-The `llm_brochure_builder.ipynb` notebook shows how to build a simple web brochure builder using Python and OpenAI. It loads environment variables, validates the OpenAI API key, and sets up a model for LLM-powered tasks. The notebook defines a `Website` class that fetches and parses web pages, extracts their titles, text, and links, and cleans up irrelevant content. Example usage demonstrates scraping a website and accessing its links. This notebook is a practical starting point for building automated web content summaries or brochures.
+---
+
+### llm_chatbot.ipynb
+
+The `llm_chatbot.ipynb` notebook provides a hands-on environment for building and experimenting with advanced chatbots powered by generative AI. It integrates multiple LLM providers—including OpenAI, Anthropic, and Google Gemini—allowing users to compare and deploy conversational agents with streaming responses. The notebook is designed for rapid prototyping of AI chat interfaces, making it a valuable tool for exploring the capabilities of modern language models in real-time applications.
+
+---
+
+### llmwebscraper.ipynb
+
+The `llmwebscraper.ipynb` notebook combines traditional web scraping with generative AI to extract, process, and summarize web content. Users can fetch data from websites and then use large language models to analyze, clean, and transform the scraped information into structured insights or summaries. This approach enables automated, intelligent data extraction workflows that harness the power of LLMs for real-world web data.
+
+---
