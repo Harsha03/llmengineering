@@ -20,5 +20,6 @@
 - HuggingFace pipelines & tokenizers
 - BitsAndBytes quantization
 - Real-time Gradio web interfaces
+- Retrieval-Augmented Generation (RAG)
 
 ---
