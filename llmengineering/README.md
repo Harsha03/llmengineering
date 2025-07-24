@@ -35,7 +35,7 @@ Welcome to **LLM Engineering**! This repository contains interactive Jupyter not
 ### 4. 🧠 llmknowledgeworker.ipynb
 - **Purpose:** Demonstrate Retrieval-Augmented Generation (RAG) using LangChain and Chroma.
 - **Features:**
-  - Loads and splits documents from a local knowledge base
+  - Loads and splits documents from a local knowledge base located in the `src/knowledge-base` folder
   - Creates vector embeddings with OpenAI
   - Stores embeddings in a Chroma vector database
   - Builds a conversational retrieval chain with LangChain
