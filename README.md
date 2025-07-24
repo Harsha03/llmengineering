@@ -1,5 +1,5 @@
 ---
-# 👋 Hi, I'm Harsha Jaiganesh
+👋 Hi, I'm Harsha Jaiganesh
 
 > 🧠 **AI Engineer & Workflow Automation Enthusiast**
 
