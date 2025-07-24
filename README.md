@@ -1,4 +1,23 @@
 ---
+# 👋 Hi, I'm Harsha Jaiganesh
+
+> 🧠 **AI Engineer & Workflow Automation Enthusiast**
+
+Welcome to my playground for building intelligent systems that blend large language models (LLMs) with real-world utility! 🚀
+
+I specialize in crafting advanced generative AI pipelines that transform raw data into actionable insights—whether it's:
+- 🌐 Scraping the web
+- 📝 Summarizing meetings
+- 🤖 Building responsive chatbots
+- 📄 Enabling smart document retrieval
+
+This repository is a showcase of interactive Jupyter notebooks designed to highlight the most powerful and practical generative AI workflows today. Dive in to explore:
+- ⚡ Real-time streaming responses
+- 🧩 Prompt engineering
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔊 Audio transcription pipelines
+
+Whether you're a developer, researcher, or just curious about LLMs in action, this repo offers hands-on insights into the engineering behind applied generative AI. Let's build the future of intelligent automation together! ✨
 
 Welcome to **LLM Engineering**! This repository contains interactive Jupyter notebooks that showcase advanced generative AI workflows for web automation, conversational AI, and knowledge retrieval.
 
