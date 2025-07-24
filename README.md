@@ -18,6 +18,8 @@ This repository is a showcase of interactive Jupyter notebooks designed to highl
 
 Whether you're a developer, researcher, or just curious about LLMs in action, this repo offers hands-on insights into the engineering behind applied generative AI. Let's build the future of intelligent automation together! ✨
 
+---
+
 Welcome to **LLM Engineering**! This repository contains interactive Jupyter notebooks that showcase advanced generative AI workflows for web automation, conversational AI, and knowledge retrieval.
 
 ## 📚 Notebooks Overview
