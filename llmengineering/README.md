@@ -22,7 +22,17 @@ Welcome to **LLM Engineering**! This repository contains interactive Jupyter not
   - Highlights prompt engineering and streaming LLM outputs
 - **Use Case:** Advanced conversational AI applications
 
-### 3. 🧠 llmknowledgeworker.ipynb
+### 3. 📝 llmmeetingminutes.ipynb
+- **Purpose:** Automate the transcription and summarization of meeting audio into structured minutes.
+- **Features:**
+  - Uses OpenAI Whisper for audio-to-text transcription
+  - Integrates HuggingFace pipelines for LLM inference
+  - Employs advanced tokenizers for prompt formatting and streaming output
+  - Authenticates with HuggingFace Hub and OpenAI for secure API access
+  - Generates meeting minutes with summaries, key points, takeaways, and action items
+- **Use Case:** End-to-end automation of meeting minutes from audio files
+
+### 4. 🧠 llmknowledgeworker.ipynb
 - **Purpose:** Demonstrate Retrieval-Augmented Generation (RAG) using LangChain and Chroma.
 - **Features:**
   - Loads and splits documents from a local knowledge base
