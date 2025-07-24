@@ -1,4 +1,3 @@
----
 👋 Hi, I'm Harsha Jaiganesh
 
 > 🧠 **AI Engineer & Workflow Automation Enthusiast**
@@ -61,6 +60,4 @@ Welcome to **LLM Engineering**! This repository contains interactive Jupyter not
   - Enables querying the knowledge base with an LLM for contextually relevant answers
   - Real-time Gradio chat interface for RAG-powered assistant
 - **Use Case:** Knowledge retrieval and conversational AI with RAG
-
----
 
